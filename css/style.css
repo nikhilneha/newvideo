@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    width: 100%;
+    background-color: black;
+    position: relative;
+    float: left;
+    height: 655px;
+}
+header{
+    width: 100%;
+    float: left;
+}
+.fa-music{
+    font-size: 40px;
+    float: left;
+    color: yellow;
+    margin: 20px 30px;
+}
+header h1{
+    color: red;
+    margin: 20px -20px;
+    font-size: 40px;
+    float: left;
+}
+header ul{
+    list-style: none;
+}
+header ul li{
+    float: left;
+    margin: 20px 40px;
+    padding: 10px 40px;
+}
+header ul li a{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+.fa-house-user{
+    font-size: 40px;
+    float: left;
+    color: wheat;
+    margin: 25px 150px;
+}
+.fa-bell{
+    font-size: 30px;
+    float: left;
+    color: red;
+    margin: 30px 40px;
+}
+section{
+    width: 100%;
+    float: left;
+    height: 400px;
+}
+section h2{
+    color: tomato;
+    margin: 0px 20px;
+}
+section img{
+    height: 220px;
+    width: 220px;
+    margin: 20px 20px;
+    float: left;
+}
+footer{
+    width: 100%;
+    float: left;
+}
+footer h2{
+    color: wheat;
+    float: left;
+    text-transform: capitalize;
+    font-size: 25px;
+    margin: 0 20px;
+}
+footer p{
+    color: green;
+    float: left;
+    font-size: 20px;
+    margin: 10px 20px;
+}
+footer h3{
+    color: goldenrod;
+    float: left;
+    text-transform: capitalize;
+    text-decoration: underline;
+    margin: 10px 20px;
+}
